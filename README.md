@@ -18,7 +18,7 @@ TrackPal is a public based mobile application that will be implemented using rea
 
     `git clone https://github.com/scorelab/TrackPal.git`
 
-*2. Install npm packages
+*2. Install npm(install npm before using it) packages
     open a terminal or cmd and,*
 
     `npm install`
